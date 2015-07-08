@@ -1,0 +1,37 @@
+
+body {
+	text-align: center;
+	background-color: #c0c0c0;
+	background-size: cover;
+	background-position:center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+body {
+	text-align: center;
+	color: black;
+	font-family: Helvetica;
+}
+.Container {
+	width: 70vw;
+	height: 100vh;
+	margin: 0 auto;
+	background-color: white;
+	opacity: 0.9;	
+
+}
+p {
+	font-size: 24px;
+}
+input {
+	border: 0;
+	padding: 12px;
+	font-size: 18px;
+}
+input[type="submit"] {
+	background: #c0c0c0;
+}
+input[type="email"] {
+	color: black;
+}
+																				
