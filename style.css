@@ -1,4 +1,22 @@
 
+#nav-trigger-mobile {
+	display: block;
+	background: #000;
+	border: none;
+	cursor: pointer;
+	height: 74px;
+	left:0;
+	outline: none;
+	position:absolute;
+	top:0;
+	width: 87px;
+	z-index: 1001;
+}
+
+#main-nav-desktop {
+	margin-bottom: 75px;
+	padding-top: 65px;
+}
 body {
 	text-align: center;
 	background-color: #c0c0c0;
